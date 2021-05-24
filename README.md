@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://sami-peltonen.github.io/3_column_preview_card/
 
 ## My process
 
