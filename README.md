@@ -33,7 +33,7 @@ Users should be able to:
 
 ## My process
 
-As usual, I'm playing around with grids inside flexboxes. This approach seems to hold the elements together quite well.
+As usual, I'm playing around with grids and flexboxes. This way all the elements retain their sizes and shapes uniformly across all screen sizes.
 
 ### Built with
 
